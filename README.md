@@ -4,9 +4,9 @@ I’m a mathematics student and a self-taught web developer who loves building c
 
 I enjoy the intersection of math, programming, and real-world problem solving — and I’m always eager to learn, improve, and try new technologies.
 
-🔭 Currently working on: improving my React & Next.js skills and building practical projects
-🧠 Learning next: TypeScript, backend fundamentals (Node.js & APIs)
-🎯 Interests: web development, computer science, mathematics, sports, and games
+- 🔭 Currently working on: improving my React & Next.js skills and building practical projects
+- 🧠 Learning next: TypeScript, backend fundamentals (Node.js & APIs)
+- 🎯 Interests: web development, computer science, mathematics, sports, and games
 
 ## 🛠️ Tech Stack
 
