@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Maciej 👋
 
-<!--
-**maciej-galuszka/maciej-galuszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a mathematics student and a self-taught web developer who loves building clean, responsive interfaces and solving interesting problems. I’m aspiring to become a full-stack developer, expanding my skills beyond frontend and exploring backend technologies step by step.
 
-Here are some ideas to get you started:
+I enjoy the intersection of math, programming, and real-world problem solving — and I’m always eager to learn, improve, and try new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: improving my React & Next.js skills and building practical projects
+🧠 Learning next: TypeScript, backend fundamentals (Node.js & APIs)
+🎯 Interests: web development, computer science, mathematics, sports, and games
+
+## 🛠️ Tech Stack
+
+Frontend:
+HTML • CSS • JavaScript • React • Next.js • TailwindCSS
+
+Other:
+Git • npm • Python
+
+Always learning something new — with the long-term goal of becoming a strong full-stack developer.
+
+## 🚀 Projects
+MovieVerse
+
+A movie app where you can search films, save them to lists, rate them, and add notes.
+React, Redux Toolkit, Tailwind, React Router
+
+Rain or Shine
+
+A responsive weather app with search, geolocation, dark mode, and detailed forecasts.
+Vanilla JS, HTML, CSS, Open-Meteo API
+
+Check out more in my repositories 👇
+
+## 📚 About Me
+
+I study Mathematics at the Silesian University of Technology — currently doing my master's in Mathematical Modelling. Outside of coding and studying, I enjoy sports, gaming, and reading books.
