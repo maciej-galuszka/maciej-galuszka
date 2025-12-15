@@ -1,6 +1,6 @@
 ## Hi, I'm Maciej 👋
 
-I’m a mathematics student and a self-taught web developer. I enjoy building simple, clean web interfaces and learning how things work under the hood. Right now I focus mainly on frontend, but my goal is to gradually move towards full-stack development.
+I’m a mathematics student with the aspiration to become a web developer. I enjoy building simple, clean web interfaces and learning how things work under the hood. I’m eager to learn, improve my skills, and explore new technologies. At the moment, I focus mainly on frontend development, with the long-term goal of gradually moving towards full-stack development.
 
 - 🔭 Currently working on: improving my React & Next.js skills and building practical projects
 - 🧠 Learning next: TypeScript, backend fundamentals (Node.js & APIs)
