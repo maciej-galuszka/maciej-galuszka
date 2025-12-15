@@ -17,12 +17,12 @@ Git • npm • Python
 
 ## 🚀 Projects
 
-🍿 MovieVerse
+🍿 [Movieverse](https://movieverse-demo.netlify.app)
 
 A movie app where you can search films, save them to lists, rate them, and add notes.
 React, Redux Toolkit, Tailwind, React Router
 
-⛅ Rain or Shine
+⛅ [Rain or shine](https://maciej-galuszka.github.io/weather-app/)
 
 A responsive weather app with search, geolocation, dark mode, and detailed forecasts.
 Vanilla JS, HTML, CSS, Open-Meteo API
