@@ -18,15 +18,15 @@ Git • npm • Python
 ## 🚀 Projects
 
 
-- 🍿 [Movieverse](https://movieverse-demo.netlify.app) – A single-page web application for searching, rating, and managing watched movies. | **React, Redux Toolkit, React Router, and Tailwind CSS**.
+- 🍿 [Movieverse](https://github.com/maciej-galuszka/movieverse) – A single-page web application for searching, rating, and managing watched movies. | **React, Redux Toolkit, React Router, and Tailwind CSS**.
 
-- ⛅ [Rain or Shine](https://maciej-galuszka.github.io/rain-or-shine/) – A responsive weather forecast app using geolocation and Open-Meteo API. Features detailed and overview forecast modes. | **Vanilla JavaScript**.
+- ⛅ [Rain or Shine](https://github.com/maciej-galuszka/rain-or-shine/) – A responsive weather forecast app using geolocation and Open-Meteo API. Features detailed and overview forecast modes. | **Vanilla JavaScript**.
   
-- 📋 [Task Manager](https://maciej-galuszka.github.io/task-manager) – Final version of a task manager app with task prioritization, sorting, and persistent storage. | **React and TypeScript**.
+- 📋 [Task Manager](https://github.com/maciej-galuszka/task-manager) – Final version of a task manager app with task prioritization, sorting, and persistent storage. | **React and TypeScript**.
 
-- 💲 [Currency Converter](https://maciej-galuszka.github.io/currency-converter) – A real-time currency converter with swap functionality and dynamic page titles. | **React and JavaScript**.
+- 💲 [Currency Converter](https://github.com/maciej-galuszka/currency-converter) – A real-time currency converter with swap functionality and dynamic page titles. | **React and JavaScript**.
 
-- 🤸‍♂️ [Trackify Landing Page](https://maciej-galuszka.github.io/trackify-landing-page) – A responsive landing page for a fitness app, showcasing workouts, community, and pricing. Features smooth navigation and mobile-friendly design. | **HTML and CSS**.
+- 🤸‍♂️ [Trackify Landing Page](https://github.com/maciej-galuszka/trackify-landing-page) – A responsive landing page for a fitness app, showcasing workouts, community, and pricing. Features smooth navigation and mobile-friendly design. | **HTML and CSS**.
 
 
 
