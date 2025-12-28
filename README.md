@@ -17,6 +17,7 @@ Git • npm • Python
 
 ## 🚀 Projects
 
+
 - 🍿 [Movieverse](https://movieverse-demo.netlify.app) – A single-page web application for searching, rating, and managing watched movies. | **React, Redux Toolkit, React Router, and Tailwind CSS**.
 
 - ⛅ [Rain or Shine](https://maciej-galuszka.github.io/rain-or-shine/) – A responsive weather forecast app using geolocation and Open-Meteo API. Features detailed and overview forecast modes. | **Vanilla JavaScript**.
@@ -27,7 +28,10 @@ Git • npm • Python
 
 - 🤸‍♂️ [Trackify Landing Page](https://maciej-galuszka.github.io/trackify-landing-page) – A responsive landing page for a fitness app, showcasing workouts, community, and pricing. Features smooth navigation and mobile-friendly design. | **HTML and CSS**.
 
-[Check out more in my repositories](https://github.com/maciej-galuszka?tab=repositories) 👇
+
+
+[Check out more in my repositories](https://github.com/maciej-galuszka?tab=repositories) 👈
+
 
 ## 📚 About Me
 
