@@ -17,15 +17,15 @@ Git • npm • Python
 
 ## 🚀 Projects
 
-🍿 [Movieverse](https://movieverse-demo.netlify.app)
+- [Movieverse](https://github.com/TwojLogin/movieverse) – A single-page web application for searching, rating, and managing watched movies. Built with **React, Redux Toolkit, React Router, and Tailwind CSS**.
 
-A movie app where you can search films, save them to lists, rate them, and add notes.
-React, Redux Toolkit, Tailwind, React Router
+- [Rain or Shine](https://github.com/TwojLogin/rain-or-shine) – A responsive weather forecast app using geolocation and Open-Meteo API. Features detailed and overview forecast modes. Built with **vanilla JavaScript**.
+  
+- [Task Manager](https://github.com/TwojLogin/task-manager) – Final version of a task manager app with task prioritization, sorting, and persistent storage. Built with **React and TypeScript**.
 
-⛅ [Rain or shine](https://maciej-galuszka.github.io/weather-app/)
+- [Currency Converter](https://github.com/TwojLogin/currency-converter) – A real-time currency converter with swap functionality and dynamic page titles. Built with **React and JavaScript**.
 
-A responsive weather app with search, geolocation, dark mode, and detailed forecasts.
-Vanilla JS, HTML, CSS, Open-Meteo API
+- [Trackify Landing Page](https://github.com/TwojLogin/trackify-landing-page) – A responsive landing page for a fitness app, showcasing workouts, community, and pricing. Features smooth navigation and mobile-friendly design. Built with **HTML and CSS**.
 
 [Check out more in my repositories](https://github.com/maciej-galuszka?tab=repositories) 👇
 
