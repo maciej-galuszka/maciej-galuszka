@@ -22,9 +22,9 @@ Git • npm • Python
 
 - ⛅ [Rain or Shine](https://github.com/maciej-galuszka/rain-or-shine/) – A responsive weather forecast app using geolocation and Open-Meteo API. Features detailed and overview forecast modes. | **Vanilla JavaScript**.
   
-- 📋 [Task Manager](https://github.com/maciej-galuszka/task-manager) – Final version of a task manager app with task prioritization, sorting, and persistent storage. | **React and TypeScript**.
+- 📋 [Task Manager](https://github.com/maciej-galuszka/task-manager) – A task manager app with task prioritization, sorting, and persistent storage. | **React and TypeScript**.
 
-- 💲 [Currency Converter](https://github.com/maciej-galuszka/currency-converter) – A real-time currency converter with swap functionality and dynamic page titles. | **React and JavaScript**.
+- 💲 [Currency Converter](https://github.com/maciej-galuszka/currency-converter) – A real-time currency converter with swap functionality and dynamic page titles. | **React and TypeScript**.
 
 - 🤸‍♂️ [Trackify Landing Page](https://github.com/maciej-galuszka/trackify-landing-page) – A responsive landing page for a fitness app, showcasing workouts, community, and pricing. Features smooth navigation and mobile-friendly design. | **HTML and CSS**.
 
